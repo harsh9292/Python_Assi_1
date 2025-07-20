@@ -8,7 +8,7 @@ Multiplication
 Division
 """
 
-"""
+
 a=float(input('Enter 1st no.:'))
 b=float(input('Enter 2nd no.:'))
 
@@ -30,7 +30,6 @@ print('Substraction of',a,'and',b,'is',sub)
 print('Multiplication of',a,'and',b,'is',mul)
 print('Division of',a,'and',b,'is',div)
 print('Floor Division of',a,'and',b,'is',fdiv)
-"""
 
 # Task 2: Create a Personalized Greeting
 
